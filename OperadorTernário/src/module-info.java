@@ -1,0 +1,2 @@
+module OperadorTernário {
+}
